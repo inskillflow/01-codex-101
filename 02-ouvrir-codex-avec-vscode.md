@@ -697,7 +697,7 @@ Pour utiliser Codex proprement dans VS Code :
 7. Toujours vérifier git diff avant de commit.
 ```
 
-Le plus important pour tes étudiants : **Codex dans VS Code n’est pas seulement un chat**. C’est un assistant de développement intégré à l’éditeur, capable d’utiliser le contexte du projet, de proposer des modifications et de participer au workflow Git.
+Le plus important est de comprendre : **Codex dans VS Code n’est pas seulement un chat**. C’est un assistant de développement intégré à l’éditeur, capable d’utiliser le contexte du projet, de proposer des modifications et de participer au workflow Git.
 
 [1]: https://developers.openai.com/codex/ide?utm_source=chatgpt.com "Codex IDE extension"
 [2]: https://github.com/openai/codex "GitHub - openai/codex: Lightweight coding agent that runs in your terminal · GitHub"
