@@ -1,5 +1,3 @@
-Oui. Voici la **suite du cours : ajouter Codex dans VS Code étape par étape**.
-
 # Tutoriel — Ajouter OpenAI Codex à VS Code
 
 ## 1. Objectif
